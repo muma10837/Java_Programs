@@ -1,0 +1,9 @@
+www.google.com, 192.168.73.1
+www.uncc.edu, 192.168.73.2
+www.abc.com, 192.168.73.3
+www.espn.com, 192.168.73.4
+www.cyberDNA.com, 192.168.73.55
+www.ccaa.uncc.edu, 192.168.73.5
+www.ccigrad.uncc, 192.168.73.13
+www.cis.uncc.edu, 192.168.73.14
+www.unc.edu, 192.168.73.12
